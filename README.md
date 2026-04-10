@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Quyền Phạm Anh</h1>
+<h1 align="center">👋 Hi, I'm Phạm Anh Quyền</h1>
 
 <p align="center">
 💻 Developer | 🚀 Tech Enthusiast | 🇻🇳 Vietnam
